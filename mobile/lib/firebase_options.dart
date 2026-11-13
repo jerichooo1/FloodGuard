@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCKS2qAS5EGVycUamGY9W_JHqwS5c_VPVg',
+    apiKey: 'Api_key',
     appId: '1:882488223877:android:fd9282cf95a3ee2616e1ec',
     messagingSenderId: '882488223877',
     projectId: 'floodguard-73402',
