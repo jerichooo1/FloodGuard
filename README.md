@@ -34,6 +34,9 @@ Watch the full prototype walkthrough here: https://drive.google.com/file/d/1x1p8
 ## 📄 Prototype Screenshots
 View the full PDF documentation of the prototype screens: [Prototype Screenshots (PDF)](./interface/interfaces.pdf)
 
+## 📄 Prototype Device Picture
+View the Pictures of the Prototype Device: [Device Picture] (./interface/Device Picture)
+
 
 
 ## Key Features
