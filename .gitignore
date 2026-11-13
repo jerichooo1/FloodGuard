@@ -1,0 +1,36 @@
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+/vendor/
+
+# Logs
+/storage/logs/
+*.log
+
+# Private uploaded files
+/storage/private/*
+!/storage/private/.htaccess
+!/storage/private/.gitkeep
+
+/assets/uploads/pending_proofs/*
+!/assets/uploads/pending_proofs/.htaccess
+
+/assets/uploads/residency_proofs/*
+!/assets/uploads/residency_proofs/.htaccess
+
+# Mobile application builds
+/downloads/*.apk
+
+# Backup archives
+*.zip
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
