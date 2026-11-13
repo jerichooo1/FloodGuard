@@ -28,6 +28,12 @@ Spillway Bridge connects Barangay San Isidro and Barangay San Rafael. It serves 
 
 Due to the possibility of rising water levels and unfavorable weather conditions, the bridge is the designated location for FloodGuard's IoT monitoring and public safety implementation.
 
+## 🎥 Video Walkthrough
+Watch the full prototype walkthrough here: https://drive.google.com/file/d/1x1p8Uutf_DPeyS9BdGuWP6NwHH-Cy3aD/view?usp=sharing
+
+## 📄 Prototype Screenshots
+View the full PDF documentation of the prototype screens: [Prototype Screenshots (PDF)](./interface/interfaces.pdf)
+
 
 
 ## Key Features
